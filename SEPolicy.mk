@@ -80,4 +80,4 @@ ifneq (,$(filter sdm845 sdm710, $(TARGET_BOARD_PLATFORM)))
     endif
 endif
 
--include device/blaze/sepolicy/qcom/sepolicy.mk
+-include device/milk/sepolicy/qcom/sepolicy.mk
